@@ -26,15 +26,4 @@ Hệ thống giúp tối ưu quy trình bán hàng, quản lý sản phẩm, kh�
 ## 📖 Hướng dẫn cài đặt
 ```bash
 # Clone project
-git clone https://github.com/username/project-name.git
-
-# Cài đặt backend
-cd backend
-[command cài đặt backend]
-
-# Cài đặt frontend
-cd frontend
-[command cài đặt frontend]
-
-# Khởi chạy dự án
-[command run]
+git clone https://github.com/username/project-name.git](https://github.com/tranvandiep/Laravel-Web-Ban-Hang-POS.git
